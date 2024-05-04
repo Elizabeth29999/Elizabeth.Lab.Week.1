@@ -1,0 +1,20 @@
+body {
+    font-size: 22px;
+  }
+
+  h1 {
+  color: pink;
+  text-decoration: underline;
+}
+
+p {
+  color: blue;
+}
+p span {
+  /* notice the . (dot) in front of red */
+.red {
+  background-color: red;
+}
+
+
+}
